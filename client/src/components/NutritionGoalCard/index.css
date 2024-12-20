@@ -1,0 +1,46 @@
+div.MuiFormGroup-root {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+@media (min-width: 600px) {
+    h2#formTitle {
+        font-size: 1.2rem;
+        padding-bottom: 8%;
+    }
+    div.NutritionGoalCard-root {
+        margin: 3% 0% 8% 4%;
+    }
+    div#graphPaper {
+        margin-bottom: 16%;
+        margin-right: 4%;
+    }
+}
+
+h3.MuiTypography-subheading {
+    margin: 6% 0;
+}
+
+button.MuiButton-contained {
+    margin-top: 1.6rem;
+}
+
+span.MuiCheckbox-colorPrimary.MuiCheckbox-checked {
+    color: #6cb272;
+}
+
+div#progress {
+    margin: 2% 15%;
+    background-color: #10953bb8;
+    padding: 2%;
+}
+
+p.MuiTypography-body1 {
+    padding: 0 8%;
+}
+
+h2#formTitle {
+    font-size: 1.2rem;
+    padding-bottom: 4%;
+}
